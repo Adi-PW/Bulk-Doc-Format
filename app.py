@@ -163,7 +163,7 @@ button:focus-visible { outline: 3px solid #8FA2FF !important; outline-offset: 2p
   background: var(--card); }
 
 /* ---------- creator badge ---------- */
-.qbg-creator { position: fixed; right: 18px; bottom: 18px; z-index: 9999;
+.qbg-creator { position: fixed; left: 18px; bottom: 18px; z-index: 9999;
   display:flex; align-items:center; gap:.55rem; text-decoration:none !important;
   background: var(--card); color: var(--ink) !important; border:1px solid var(--line);
   padding: .32rem .85rem .32rem .32rem; border-radius: 999px;
